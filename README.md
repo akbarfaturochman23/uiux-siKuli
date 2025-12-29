@@ -1,71 +1,69 @@
-# Akbar’s UI/UX Portfolio
-UI/UX Design Portfolio
+# AKBAR FATUROCHMAN
+UI/UX Designer | Information Systems Student
 
-Welcome to my UI/UX design portfolio.  
-This repository showcases a UI/UX design project created using **Figma**, focusing on improving user experience and interface design for a student academic portal website.
-
-The project demonstrates my ability to analyze user needs, design intuitive interfaces, and structure digital systems for academic environments.
-
----
-
-## siKuli – Student Academic Portal
-### Project Overview
-**siKuli** is a student academic portal website designed to help students manage their academic activities in one integrated platform.  
-The design focuses on simplicity, clarity, and ease of use for Indonesian university students.
+📍 Bantul, Yogyakarta  
+📧 akbarfaturochman25@gmail.com  
+📱 +62 896-8761-4320  
 
 ---
 
-### Key Features & Design Focus
-- Login system using Student ID (NIM)
-- Dashboard / Beranda with academic information
-- Forum discussion & community interaction
-- Task upload and deadline tracking
-- Course & lecturer information
-- Academic grades & transcript view
-- Student profile & account settings
-- Notification system
+## PROFIL
+Saya adalah mahasiswa Program Studi **Sistem Informasi** di **Universitas Teknologi Digital Indonesia** semester 5.  
+Memiliki minat dan fokus di bidang **UI/UX Design**, khususnya dalam perancangan antarmuka aplikasi dan website yang mudah digunakan serta berorientasi pada kebutuhan pengguna.
 
 ---
 
-### Pages Designed
-- Login Page  
-- Beranda (Dashboard)  
-- Forum Diskusi  
-- Tugas  
-- Deadline  
-- Mata Kuliah  
-- Nilai & Transkrip  
-- Profil Mahasiswa  
-- Pengaturan Akun  
+## PENDIDIKAN
+**Universitas Teknologi Digital Indonesia (UTDI)**  
+Program Studi Sistem Informasi  
+Semester 5
 
 ---
 
-### Tools
+## SKILLS
+### UI/UX Design
+- UI/UX Design
+- User Research
+- Wireframing & Prototyping
+- Mockup & Prototype Design
 - Figma
 
+### Pemrograman & Pengembangan Aplikasi
+- PHP (Native & Laravel)
+- HTML, CSS, JavaScript
+
+### Basis Data
+- MySQL
+- Perancangan Database
+
+### Sistem & Data Engineering (Dasar)
+- Apache Hive
+- Cassandra (Python)
+
+### Analisis & Perancangan Sistem
+- Flowchart
+- Use Case Diagram
+- Analisis Kebutuhan Sistem
+
+### Tools Pendukung
+- Figma
+- Visual Studio Code
+- Laragon
+
 ---
 
-## 🔗 Figma Design Link
-https://www.figma.com/design/DsVx610f21xkUa2vxz1d5E/Untitled
+## PENGALAMAN / PROYEK
+- Membuat desain **Wireframe, Mockup, dan Prototype UI/UX** menggunakan Figma
+- Merancang **Sistem Pendaftaran / Event Registration**
+- Instalasi Apache Hive dan menjalankan query Hive
+- Perancangan sistem akademik berbasis website (UI/UX)
 
 ---
 
-## Skills Demonstrated
-- UI/UX Design Fundamentals
-- User-Centered Design
-- Information Architecture
-- Wireframing & Mockup Design
-- Academic System Interface Design
-- Prototyping using Figma
+## PORTOFOLIO UI/UX (FIGMA)
+🔗 https://www.figma.com/design/DsVx610f21xkUa2vxz1d5E/Untitled
 
 ---
 
-## About Me
-**Name**: Akbar Faturochman  
-**Major**: Information Systems  
-**University**: Universitas Teknologi Digital Indonesia (UTDI)
-
----
-
-## Certification
-- UI/UX Design (Academic Project)
+## BAHASA
+- Bahasa Indonesia
